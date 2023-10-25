@@ -1,0 +1,7 @@
+{
+   "name": "docux",
+   "defaultDir": "docs",
+   "url": "https://docux.dev",
+   "tar": "https://codeload.github.com/nyxb/docux/tar.gz/refs/heads/main",
+   "subdir": ".starters/default"
+ }
