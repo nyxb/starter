@@ -4,7 +4,7 @@ Quickly get started with a minimal Nyxb starter template!
 
 ## Quick start
 
-Head over to [nuxt.new](https://nyxb.new) to get started quickly.
+Head over to [nyxb.space](https://nyxb.space) to get started quickly.
 
 ## Usage
 
